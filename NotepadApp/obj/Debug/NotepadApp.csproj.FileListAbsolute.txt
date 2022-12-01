@@ -1,0 +1,10 @@
+C:\Users\Cody\OneDrive\Career Progression\Programming Projects\NotepadApp\NotepadApp\bin\Debug\NotepadApp.exe.config
+C:\Users\Cody\OneDrive\Career Progression\Programming Projects\NotepadApp\NotepadApp\bin\Debug\NotepadApp.exe
+C:\Users\Cody\OneDrive\Career Progression\Programming Projects\NotepadApp\NotepadApp\bin\Debug\NotepadApp.pdb
+C:\Users\Cody\OneDrive\Career Progression\Programming Projects\NotepadApp\NotepadApp\obj\Debug\NotepadApp.csproj.AssemblyReference.cache
+C:\Users\Cody\OneDrive\Career Progression\Programming Projects\NotepadApp\NotepadApp\obj\Debug\NotepadApp.Form1.resources
+C:\Users\Cody\OneDrive\Career Progression\Programming Projects\NotepadApp\NotepadApp\obj\Debug\NotepadApp.Properties.Resources.resources
+C:\Users\Cody\OneDrive\Career Progression\Programming Projects\NotepadApp\NotepadApp\obj\Debug\NotepadApp.csproj.GenerateResource.cache
+C:\Users\Cody\OneDrive\Career Progression\Programming Projects\NotepadApp\NotepadApp\obj\Debug\NotepadApp.csproj.CoreCompileInputs.cache
+C:\Users\Cody\OneDrive\Career Progression\Programming Projects\NotepadApp\NotepadApp\obj\Debug\NotepadApp.exe
+C:\Users\Cody\OneDrive\Career Progression\Programming Projects\NotepadApp\NotepadApp\obj\Debug\NotepadApp.pdb
