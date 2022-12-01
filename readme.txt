@@ -1,1 +1,1 @@
-This is a basic note taking application that was built using Windows Forms. The user is able to put in a title and a message which can be saved in a data table. That information can then be read or deleted.
+This is a basic note taking application that was built using the Windows Forms App (.NET Framework). The user is able to put in a title and a message which can be saved in a data table. That information can then be read or deleted.
